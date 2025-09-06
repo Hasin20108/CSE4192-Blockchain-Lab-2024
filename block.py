@@ -1,5 +1,5 @@
 # Task 1: Version, Previous Hash, Merkle Root (Use a dummy merkle root), Timestamp , Difficulty, Nonce
-# Task 2: Create a Blockchaina
+# Task 2: Create a Blockchain 
 
 
 import hashlib 
